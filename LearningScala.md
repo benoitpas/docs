@@ -5,11 +5,15 @@
 https://www.coursera.org/specializations/scala
 
 The first 2 are a particular must have (done):
-*Functional programming in Scala https://www.coursera.org/learn/progfun1?specialization=scala
+* Functional programming in Scala https://www.coursera.org/learn/progfun1?specialization=scala
 * Functional program design in Scala https://www.coursera.org/learn/progfun2?specialization=scala
 
-## TypeLevel books 
-Theses are the books on which TypeLevel base their training, they are great resources as they introduce core concepts with exercices. They do no introduce all aspects of Scala but focus on the 'algebraic datatype'/pure functional approach
+## Underscore books 
+Theses are the books on which TypeLevel base their training, they are great resources as they introduce core concepts with exercices. They do)  no introduce all aspects of Scala but focus on the 'algebraic datatype'/pure functional approach.
+
+* Essential Scala (https://underscore.io/books/essential-scala/) is a great scala introductory book for people who already know how to program
+* Cats
+* Astronau
 
 todo: list the books
 
