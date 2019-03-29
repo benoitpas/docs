@@ -8,6 +8,8 @@ The first 2 are a particular must have (done):
 * Functional programming in Scala https://www.coursera.org/learn/progfun1?specialization=scala
 * Functional program design in Scala https://www.coursera.org/learn/progfun2?specialization=scala
 
+All the 'official' resources recommended to learn Scala: https://docs.scala-lang.org/learn.html
+
 ## Underscore books - Pure Functional programming in Scala
 Theses are the books on which TypeLevel base their training, they are great resources as they introduce core concepts with exercices. They do)  no introduce all aspects of Scala but focus on the 'algebraic datatype'/pure functional approach.
 
