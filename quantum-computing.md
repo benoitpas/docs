@@ -17,17 +17,17 @@ including MIT - Information and Entropy - Paul Penfield, Seth Lloyd
 * https://skillsmatter.com/skillscasts/13027-prospects-for-a-solid-state-quantum-computer
 
 ## Applications
-https://skillsmatter.com/skillscasts/11681-quantum-machine-learning
-https://skillsmatter.com/skillscasts/12731-quantum-computing-as-an-aid-in-a-drug-discovery-crisis
+* https://skillsmatter.com/skillscasts/11681-quantum-machine-learning
+* https://skillsmatter.com/skillscasts/12731-quantum-computing-as-an-aid-in-a-drug-discovery-crisis
 
 ## 'Philosophical'
 
 Seth Lloyd programming the universe
-https://vimeo.com/90972283
+* https://vimeo.com/90972283
 
  
 # Applications
-https://en.wikipedia.org/wiki/Quantum_chemistry
+* https://en.wikipedia.org/wiki/Quantum_chemistry
 
 # Books
 * https://www.sciencedirect.com/book/9780128009536/quantum-machine-learning#book-description
@@ -38,4 +38,4 @@ https://en.wikipedia.org/wiki/Quantum_chemistry
 # Excercises
 ## 1st Open Quantum Collective Knowledge Challenge
 Based on Forest SDK
-https://github.com/ctuning/ck-quantum/blob/master/module/challenge.vqe/README.md#upload
+* https://github.com/ctuning/ck-quantum/blob/master/module/challenge.vqe/README.md#upload
