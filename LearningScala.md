@@ -10,7 +10,10 @@ The first 2 are a particular must have (done):
 
 All the 'official' resources recommended to learn Scala: https://docs.scala-lang.org/learn.html
 
-## Underscore books - Pure Functional programming in Scala
+## Functional programming
+Runnar's red book
+
+### Underscore books - Pure Functional programming in Scala
 Theses are the books on which TypeLevel base their training, they are great resources as they introduce core concepts with exercices. They do)  no introduce all aspects of Scala but focus on the 'algebraic datatype'/pure functional approach.
 
 * Essential Scala (https://underscore.io/books/essential-scala/) is a great scala introductory book for people who already know how to program
@@ -20,6 +23,9 @@ Theses are the books on which TypeLevel base their training, they are great reso
 Other more specialized books are also available, for example on the Play framework or Lift (https://underscore.io/books/).
 
 Scala exercices (https://www.scala-exercises.org/) is a web site with interactive tests on the https://underscore.io/books/Underscore ecosystem (Cats and Shapeless are covered for example). It is a great complement to the books.
+
+### Akkas/ZIO
+* FP for mortals
 
 ## Recursion Scheme - Matryoshkas
 
