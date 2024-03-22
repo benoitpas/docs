@@ -7,3 +7,6 @@ A few articles that are useful reference when discussing "Ways of working" to av
 Also, some links on career frameworks:
 * Dropbox one: https://dropbox.github.io/dbx-career-framework/
 * The Guardian: https://github.com/guardian/engineering-performance-framework/tree/main
+
+A very insightful article on learning:
+* https://cacm.acm.org/research/10-things-software-developers-should-learn-about-learning
